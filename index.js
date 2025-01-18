@@ -1,12 +1,10 @@
 // index.js
 
-// 1. Define companyName as a constant
 const companyName = "Scuber";
+console.log(companyName); // Expected output: Scuber
 
-// 2. Define mostProfitableNeighborhood using let
 let mostProfitableNeighborhood = "Chelsea";
+console.log(mostProfitableNeighborhood); // Expected output: Chelsea
 
-// 3. Define companyCeo using let
 let companyCeo = "Susan Smith";
-
-// These variables are now globally accessible and can be tested by your test files.
+console.log(companyCeo); // Expected output: Susan Smith
